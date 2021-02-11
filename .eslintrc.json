@@ -33,9 +33,13 @@
     "browser": true,
     "node": true
   },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 8
+  },
   "settings": {
     "react": {
       "version": "detect"
     }
-  }
+  }   
 }
